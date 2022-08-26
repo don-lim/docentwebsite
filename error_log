@@ -1,0 +1,12 @@
+[16-Aug-2022 02:44:17 America/Chicago] PHP Warning:  simplexml_load_file(): https://ip2c.org/172.121.209.159:1: parser error : Start tag expected, '&lt;' not found in /home/docentc1/old.docentcorp.com/index.php on line 424
+[16-Aug-2022 02:44:17 America/Chicago] PHP Warning:  simplexml_load_file(): 1;US;USA;United States in /home/docentc1/old.docentcorp.com/index.php on line 424
+[16-Aug-2022 02:44:17 America/Chicago] PHP Warning:  simplexml_load_file(): ^ in /home/docentc1/old.docentcorp.com/index.php on line 424
+[16-Aug-2022 02:44:21 America/Chicago] PHP Warning:  simplexml_load_file(): https://ip2c.org/45.5.66.70:1: parser error : Start tag expected, '&lt;' not found in /home/docentc1/old.docentcorp.com/index.php on line 424
+[16-Aug-2022 02:44:21 America/Chicago] PHP Warning:  simplexml_load_file(): 1;HN;HND;Honduras in /home/docentc1/old.docentcorp.com/index.php on line 424
+[16-Aug-2022 02:44:21 America/Chicago] PHP Warning:  simplexml_load_file(): ^ in /home/docentc1/old.docentcorp.com/index.php on line 424
+[16-Aug-2022 02:44:25 America/Chicago] PHP Warning:  simplexml_load_file(): https://ip2c.org/45.5.66.70:1: parser error : Start tag expected, '&lt;' not found in /home/docentc1/old.docentcorp.com/index.php on line 424
+[16-Aug-2022 02:44:25 America/Chicago] PHP Warning:  simplexml_load_file(): 1;HN;HND;Honduras in /home/docentc1/old.docentcorp.com/index.php on line 424
+[16-Aug-2022 02:44:25 America/Chicago] PHP Warning:  simplexml_load_file(): ^ in /home/docentc1/old.docentcorp.com/index.php on line 424
+[21-Aug-2022 03:00:35 America/Chicago] PHP Warning:  simplexml_load_file(): https://ip2c.org/35.215.117.69:1: parser error : Start tag expected, '&lt;' not found in /home/docentc1/old.docentcorp.com/index.php on line 424
+[21-Aug-2022 03:00:35 America/Chicago] PHP Warning:  simplexml_load_file(): 1;US;USA;United States in /home/docentc1/old.docentcorp.com/index.php on line 424
+[21-Aug-2022 03:00:35 America/Chicago] PHP Warning:  simplexml_load_file(): ^ in /home/docentc1/old.docentcorp.com/index.php on line 424

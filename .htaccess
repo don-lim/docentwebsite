@@ -1,0 +1,17 @@
+### FastComet Pagespeed Rule
+#ModPagespeed On
+### FastComet Pagespeed Rule
+
+#Force https redirect
+#RewriteEngine On
+#RewriteCond %{HTTPS} off
+#RewriteRule ^(.*)$ https://old.docentcorp.com/$1 [L,R=301]
+Options -Indexes
+#Options +Indexes
+IndexOptions -FancyIndexing
+
+# Protect ip.dat
+<Files ~ "\.dat$">
+Order allow,deny
+Deny from all
+</Files>
